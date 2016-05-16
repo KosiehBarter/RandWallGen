@@ -2,7 +2,7 @@
 Simple program that generates a random picture
 
 
-* Usage:
+Usage:
 Install PIL (Python imaging library)
 run RandomWallGenerator.py with python (2.x).
 
